@@ -218,7 +218,7 @@ Licensed under the **MIT License**. See `LICENSE` for details.
 
 ## 📫 Author
 
-Developed by **<Alireza Bolbolabadi>** ([github.com/<bolbolabadi>](https://github.com/<bolbolabadi>))
+Developed by **Alireza Bolbolabadi** ([github.com/bolbolabadi](https://github.com/bolbolabadi))
 
 If you find this useful, please ⭐ the repository!
-```
+
