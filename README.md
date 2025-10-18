@@ -41,7 +41,7 @@ Create a `user_agents.txt` file in the same directory if you plan to use `--rand
 ## 📦 Installation (GitHub-style quick start)
 
 ```bash
-git clone https://github.com/<your-username>/plugin-checker.git
+git clone https://github.com/bolbolabadi/plugin-checker.git
 cd plugin-checker
 
 # create a virtualenv (recommended)
